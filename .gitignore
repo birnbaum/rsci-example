@@ -1,0 +1,7 @@
+/data/*
+!/data/inference_trace.csv
+/output/
+/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
